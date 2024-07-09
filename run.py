@@ -1,4 +1,4 @@
 import os 
 os.chdir(r"D:\Download\alisa")
-os.system("python.exe other.py")
+os.system("python.exe whisper_mic.py")
 
